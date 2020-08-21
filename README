@@ -1,0 +1,18 @@
+
+TwirlingCapture SDK 
+
+├── README
+├── bin
+│   └── music.pcm
+├── doc
+│   └── UserGuide.md
+├── include
+│   └── TwirlingCapture.h
+├── libs
+│   └── libTwirlingCapture.so
+├── release.txt
+└── samples
+    ├── 64bit_make.sh
+    ├── Makefile
+    ├── mainLinux_16k.c
+
