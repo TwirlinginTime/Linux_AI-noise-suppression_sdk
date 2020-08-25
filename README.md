@@ -11,9 +11,9 @@ TwirlingCapture SDK
 │   └── libTwirlingCapture.so  
 ├── release.txt  
 └── samples  
-    ├── 64bit_make.sh  
-    ├── Makefile  
-    ├── mainLinux_16k.c  
+   ├── 64bit_make.sh  
+   ├── Makefile  
+   ├── mainLinux_16k.c  
 
 ## 使用说明
 1. 进入 `samples` 目录，打开命令行界面执行 `. ./64bit_make.sh` (注意两个 `.` 之间需要加入空格)完成编译。
